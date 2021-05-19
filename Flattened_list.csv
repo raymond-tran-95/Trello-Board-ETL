@@ -1,0 +1,30 @@
+,idList,ListName,Closed,Position
+0,5eaa8d36f0d3b2246b80a6f5,Admin,False,2047.96875
+1,5eaa8d36f0d3b2246b80a6f6,Processes / Documentation,False,3071.953125
+2,5f1a7006b3657173f17c466d,Retro,True,5071.922607421875
+3,60359a203e64ea8bd6faadd6,Projects,False,6071.9073486328125
+4,5eaa8d36f0d3b2246b80a6f7,Blocked / Waiting on McD,True,6143.90625
+5,5eaa8d36f0d3b2246b80a6f8,Features on Hold,False,7071.89208984375
+6,5eaa8d36f0d3b2246b80a6f9,Features To Do,False,7999.8779296875
+7,5eaa8d36f0d3b2246b80a6fa,Features BAU On Going,False,8463.870849609375
+8,5eaa8d36f0d3b2246b80a6fb,Features In Progress,False,8927.86376953125
+9,5eaa8d36f0d3b2246b80a6fc,Features Done/Completed,False,9855.849609375
+10,5eaa8d36f0d3b2246b80a6fd,On Hold/ Blocked/Waiting,False,22847.6513671875
+11,5eaa8d36f0d3b2246b80a6fe,Prioritised Backlog,False,35839.453125
+12,5f0556dd06f3222121118eb8,In Sprint/To Do,False,43263.33984375
+13,5eaa8d36f0d3b2246b80a6ff,Refining,False,50687.2265625
+14,5eaa8d36f0d3b2246b80a700,Building,False,58111.11328125
+15,5eaa8d36f0d3b2246b80a701,Testing/Documentation,False,61823.056640625
+16,5f1a7aa6b7197f66d65b208d,Ready for Review/ Peer Review,False,62287.049560546875
+17,5eaa8d36f0d3b2246b80a702,Deploying/Ready,False,62751.04248046875
+18,5eaa8d36f0d3b2246b80a703,Done/Deployed,False,63679.0283203125
+19,5eaa8d36f0d3b2246b80a704,Completed - Piyush,True,82239.0
+20,5eaa8d36f0d3b2246b80a705,Completed - Kedhaar,True,84095.0
+21,5eaa8d36f0d3b2246b80a706,Completed - Raymond,True,91103.0
+22,5eaa8d36f0d3b2246b80a707,Cancelled,True,98111.0
+23,5eaa8fdfb7aeb851ec54595f,Archive,False,129215.0283203125
+24,5eaa8d36f0d3b2246b80a708,Completed - Katie,True,140159.0
+25,5eaa8d36f0d3b2246b80a709,Completed - Nitya,True,524287.0
+26,5eaa8d36f0d3b2246b80a70a,Completed- Mark,True,589823.0
+27,5eaa8d36f0d3b2246b80a70b,Completed-Neha,True,655359.0
+28,5eaa8d36f0d3b2246b80a70c,Completed-Jeremy,True,720895.0
